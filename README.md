@@ -5,10 +5,8 @@
 
 ## 어떻게 만들었는데 ?
 
-- 상태관리는 Provider를 사용할 예정 [Provider][providerlink]   
-- Database 는 sqlite를 사용할 예정 [sqlite][sqflitelink]   
-[providerlink]: https://pub.dev/packages/provider "Provider"
-[sqflitelink]: https://pub.dev/packages/sqflite "sqflite"
+- 상태관리는 Provider를 사용할 예정 [Provider](https://pub.dev/packages/provider)   
+- Database 는 sqlite를 사용할 예정 [sqflite](https://pub.dev/packages/sqflite)
 
 ## 뭘 할수있는데 ?
 ### 간단한 일정관리 앱이며 지극히 개인적으로 만들었기 때문에 만들며 기능을 추가 할 예정입니다.
